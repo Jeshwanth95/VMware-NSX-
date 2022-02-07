@@ -53,3 +53,4 @@ VMs connected to distributed Org VDC networks lose network connectivity after N-
 Workaround: Ensure that the MAC Address of the NSX-T Virtual Distributed Router is using a different MAC address than the NSX-V distributed logical router. For more details, see [VMware documents](https://docs.vmware.com/en/VMware-NSX-T-Data-Center/3.1/migration/GUID-538774C2-DE66-4F24-B9B7-537CA2FA87E9.html)
 
 <a href="https://ibb.co/SfJfWJC"><img src="https://i.ibb.co/7kbk8bm/NAT.jpg" alt="NAT" border="0"></a>
+
